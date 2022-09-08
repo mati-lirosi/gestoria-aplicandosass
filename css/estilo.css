@@ -1,0 +1,17 @@
+h1 {
+  color: red; }
+
+header {
+  background-color: red; }
+
+h1 {
+  color: white;
+  margin-left: 400px; }
+
+footer {
+  background-color: yellow; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.boton-redes{ padding-left: 450px; }
